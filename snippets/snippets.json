@@ -13,7 +13,7 @@
   },
 
   "stories": {
-    "prefix": "storie",
+    "prefix": "story",
     "body": [
       "import React from 'react';",
       "",

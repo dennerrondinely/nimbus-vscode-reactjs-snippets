@@ -34,7 +34,7 @@ Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada 
 |                    Gatilho | Conteúdo                                                                      |
 | -------------------------: | ----------------------------------------------------------------------------- |
 |                    `rfc →` | Cria um Componente **Functional**                                             |
-|                 `storie →` | Cria um arquivo com as configurações para utilizar o **StoryBook**            |
+|                  `story →` | Cria um arquivo com as configurações para utilizar o **StoryBook**            |
 |           `styled-react →` | Cria um arquivo de Estilização com **Styled Components**                      |
 
 <!-- CONTRIBUTING -->
