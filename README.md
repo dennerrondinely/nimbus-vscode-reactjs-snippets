@@ -1,5 +1,10 @@
+![GitHub](https://img.shields.io/github/license/dennerrondinely/nimbus-vscode-reactjs-snippets)
+
 
 <p align="center">
+  <a href="https://dennerrondinely.com">
+    <img src="https://raw.githubusercontent.com/dennerrondinely/nimbus-vscode-reactjs-snippets/main/images/nimbus_logo.png" alt="Logo">
+  </a>
   <h3 align="center">ReactJS Snippets</h3>
 </p>
 
