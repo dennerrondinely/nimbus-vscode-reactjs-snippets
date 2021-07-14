@@ -1,0 +1,46 @@
+{
+  "name": "nimbusreactjs",
+  "description": "ReactJS snippets created by nimbus.",
+  "version": "0.0.1",
+  "displayName": "Nimbus ReactJS",
+  "publisher": "nimbus",
+  "icon": "images/nimbus.png",
+  "galleryBanner": {
+    "color": "#7159c1",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennerrondinely/nimbus-vscode-reactjs-snippets"
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets-ts.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets-ts.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.75.0"
+  }
+}
