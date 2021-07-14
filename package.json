@@ -1,12 +1,12 @@
 {
   "name": "nimbusreactjs",
-  "description": "ReactJS snippets created by nimbus.",
-  "version": "0.0.1",
+  "description": "ReactJS snippets created by Dênner Rondinely da Silva.",
+  "version": "0.0.2",
   "displayName": "Nimbus ReactJS",
   "publisher": "nimbus",
   "icon": "images/nimbus.png",
   "galleryBanner": {
-    "color": "#7159c1",
+    "color": "#0D1726",
     "theme": "dark"
   },
   "license": "MIT",

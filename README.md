@@ -1,3 +1,4 @@
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/nimbus.nimbusreactjs.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=nimbus.nimbusreactjs)
 ![GitHub](https://img.shields.io/github/license/dennerrondinely/nimbus-vscode-reactjs-snippets)
 
 
