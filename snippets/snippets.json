@@ -24,7 +24,7 @@
       "  component: ${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}},",
       "}",
       "",
-      "export const Default = () => <${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}} />;"
+      "export const Default = (args) => <${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}} {...args} />;"
     ],
     "description": "Create StoryBook component Javascript"
   },
